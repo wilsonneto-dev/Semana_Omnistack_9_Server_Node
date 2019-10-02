@@ -1,15 +1,18 @@
 {
   "name": "Semana_Omnistack_9_Server_Node",
   "version": "1.0.0",
-  "description": "",
+  "description": "Semana OmniStack Aula 2",
+  "repository": "https://github.com/wilsonneto-dev/Semana_Omnistack_9_Server_Node",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nodemon": "^1.19.3"
   }
 }
