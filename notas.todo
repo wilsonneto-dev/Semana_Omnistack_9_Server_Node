@@ -1,0 +1,11 @@
+
+
+Notas:
+Aos 45 minutos
+
+MongoDB - 2019/10/02:
+
+- String de conexão no mogo:
+mongodb+srv://tindev:wnbr776e@cluster0-o37eq.mongodb.net/test?retryWrites=true&w=majority 
+mongodb+srv://ominstack9:ominstack9@cluster0-o37eq.mongodb.net/test?retryWrites=true&w=majority
+https://cloud.mongodb.com/v2/5d4a1e60a6f2390ff6de8650#clusters
