@@ -17,6 +17,7 @@
     "nodemon": "^1.19.3"
   },
   "dependencies": {
-    "mongoose": "^5.7.3"
+    "mongoose": "^5.7.3",
+    "multer": "^1.4.2"
   }
 }
